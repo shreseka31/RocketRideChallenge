@@ -1,4 +1,4 @@
-# Architecture
+# Architecture (used AI to help Generate but thoroughly reviewed all content)
 
 ## Interface
 
